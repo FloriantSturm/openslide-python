@@ -13,4 +13,5 @@ Note that: In order to make your changes be working, you need to close and resta
 
 
 ######------PIL image operation in python----------######
+
 tile.show() # to display the tile
