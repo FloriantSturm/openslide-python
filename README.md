@@ -16,4 +16,4 @@ Note that: In order to make your changes be working, you need to close and resta
 
 tile.show() # to display the tile, where tile is a PIL image object
 
-scipy.misc.toimage(tile).show # to display the tile using scipy package, where tile is a numpy array object
+scipy.misc.toimage(tile).show() # to display the tile using scipy package, where tile is a numpy array object
