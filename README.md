@@ -10,3 +10,7 @@ how to use openslide python on win10???
 PC-> Properties->Advanced system settings->Environment variables->Path->Edit->New (put your bin file path here)
 
 Note that: In order to make your changes be working, you need to close and restart your app, or your can restart your computer
+
+
+######------PIL image operation in python----------######
+tile.show() # to display the tile
